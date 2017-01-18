@@ -1,0 +1,17 @@
+{
+  "name": "drupal/ckeditor_details",
+  "type": "drupal-module",
+  "description": "Wraps a CKEditor html details plugin - currently only a proprietary one is available from uritec.es.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/ckeditor_details",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/ckeditor_details",
+    "source": "http://cgit.drupalcode.org/ckeditor_details"
+  },
+  "require": {
+    "drupal/libraries": "^3",
+    "uritec_es/ckeditor_details": "dev-master"
+  }
+}

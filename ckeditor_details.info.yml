@@ -1,0 +1,9 @@
+name: CKEditor Details
+type: module
+description: Wraps a CKEditor html details plugin - currently only a proprietary one is available from uritec.es.
+core: 8.x
+package: CKEditor
+dependencies:
+  - libraries
+library_dependencies:
+  - ckeditor_details
