@@ -18,3 +18,4 @@ Currently this lives on github / packagist:
 
 composer require clever-systems/ckeditor_details
 
+Note that the library repository is a private one and does not have a packagist entry.
