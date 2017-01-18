@@ -10,3 +10,11 @@ Installation and configuration
   libraries/ckeditor_details/plugin.js
 * Go to admin/config/content/formats/manage/rich_text (or another text format)
   and enable "Details ckeditor button" to the active buttons.
+
+Repository
+----------
+
+Currently this lives on github / packagist: 
+
+composer require clever-systems/ckeditor_details
+
