@@ -1,5 +1,5 @@
 {
-  "name": "drupal/ckeditor_details",
+  "name": "clever-systems/ckeditor_details",
   "type": "drupal-module",
   "description": "Wraps a CKEditor html details plugin - currently only a proprietary one is available from uritec.es.",
   "keywords": ["Drupal"],
